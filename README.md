@@ -1,2 +1,3 @@
 # github-demo
-A Short demo of github repository
+updated fILE Completed to demosntrate nano usage
+
